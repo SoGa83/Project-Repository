@@ -11,7 +11,7 @@ package Bookstore;
 import java.util.Scanner;//imports the scanner
 
 /**
- * @author sophia
+ * @author Soofia
  *
  */
 public class Driver {
@@ -228,7 +228,7 @@ public class Driver {
 package Bookstore;
 
 /**
- * @author sophia
+ * @author soofia
  *
  */
 public class Book {
